@@ -1,0 +1,6 @@
+{
+  "name": "Apex Park 3D",
+  "description": "3D precision car parking game with realistic steering physics, 8 levels, 5 unlockable cars, and full garage customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
